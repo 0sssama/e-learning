@@ -1,0 +1,8 @@
+{
+  "short_name": "E-Learning",
+  "name": "E-Learning Platform",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#26D481",
+  "background_color": "#fefefe"
+}
